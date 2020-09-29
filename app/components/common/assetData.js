@@ -1,0 +1,59 @@
+export const icBack = require('../../assets/icons/back_button.png');
+export const icLogoTitle = require('../../assets/icons/lorem_ipsum_logo.png');
+export const icDropdown = require('../../assets/icons/dropdown.png');
+export const icTorchOff = require('../../assets/icons/torch_off.png');
+export const icTorchOn = require('../../assets/icons/torch_on.png');    
+export const icEye = require('../../assets/icons/eye.png');
+export const icEyeSlash = require('../../assets/icons/eye_slash.png');
+export const icLock = require('../../assets/icons/lock.png');
+export const icLogout = require('../../assets/icons/logout.png');
+export const icMail = require('../../assets/icons/mail.png');
+export const icMyPertamina = require('../../assets/icons/my_pertamina.png')
+export const icSearch = require('../../assets/icons/search.png')
+export const icCheck = require('../../assets/icons/check.png')
+export const icUncheck = require('../../assets/icons/uncheck.png')
+
+export const imgSplashScreen = require('../../assets/images/splash_screen.png');
+
+export const loadingAnim = require('../../assets/animations/loading.json')
+export const disconnectAnim = require('../../assets/animations/no_connection.json')
+export const imageLoadAnim = require('../../assets/animations/image_load.json')
+export const devAnim = require('../../assets/animations/dev.json')
+export const loadDataAnim = require('../../assets/animations/load_data.json')
+export const animationsWork = require('../../assets/animations/work.json')
+export const animationsAvatar = require('../../assets/animations/avatar_background.json')
+
+export const icAllFood = require('../../assets/icons/ic_all_food.png')
+export const icBrightGasFront = require('../../assets/icons/ic_bright_gas_front.png')
+export const icBrightGasHome = require('../../assets/icons/ic_bright_gast_home.png')
+export const icCulinary = require('../../assets/icons/ic_culinary.png')
+export const icDiscount = require('../../assets/icons/ic_discount.png')
+export const icMapsSolo = require('../../assets/icons/ic_maps_solo.png')
+export const icPopular = require('../../assets/icons/ic_popular.png')
+export const icPromo = require('../../assets/icons/ic_promo.png')
+export const icReview = require('../../assets/icons/ic_review.png')
+export const icSlideOne = require('../../assets/icons/ic_slide_one.png')
+export const icSlideTwo = require('../../assets/icons/ic_slide_two.png')
+export const icDummy = require('../../assets/icons/ic_dummy.png')
+export const icEdit = require('../../assets/icons/ic_edit.png')
+export const icRate = require('../../assets/icons/rate.png')
+
+export const imgPromoOne = require('../../assets/images/promo_one.jpg')
+export const imgPromoTwo = require('../../assets/images/promo_two.jpg')
+export const imgPromoThree = require('../../assets/images/promo_three.jpg')
+export const imgHeaderBg = require('../../assets/images/img_header_bg.png')
+export const imgHeaderBgCropped = require('../../assets/images/img_header_cropped_bg.png')
+export const imgHeaderLogin = require('../../assets/images/login_user.png')
+export const imgHeaderLoginOutlet = require('../../assets/images/login_outlet.png')
+export const imgHeaderRegister = require('../../assets/images/register_user.png')
+export const imgHeaderRegisterOutlet = require('../../assets/images/register_outlet.png')
+export const imgBtnUser = require('../../assets/images/btn_register_user.png')
+export const imgBtnOutlet = require('../../assets/images/btn_register_outlet.png')
+export const imgBtnGeneral = require('../../assets/images/register_now.png')
+export const imgHeaderCulinary = require('../../assets/images/header_culinary.png')
+export const imgHeaderPromo = require('../../assets/images/header_promo.png')
+export const imgHeaderDiscount = require('../../assets/images/header_discount.png')
+export const imgHeaderAllMenu = require('../../assets/images/header_all_menu.png')
+export const imgHeaderFavorite = require('../../assets/images/header_favorite.png')
+export const imgHeaderReview = require('../../assets/images/header_review.png')
+

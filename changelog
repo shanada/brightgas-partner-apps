@@ -1,0 +1,76 @@
+==============================================
+===============DEVELOPMENT MODE===============
+==============================================
+
+Update Tanggal 31 Maret 2020 (Buchori)
+- Menambah modul moment.js (npm install --save moment)
+- Menambah halaman 'PromoDiscount'
+- Menambah halaman 'PromoDiscountdetail'
+- Membuat komponen 'PromoList'
+- Update semua ikon pada halaman 'Home' dan beberapa aset pendukung UI
+- Menambah gambar sementara untuk promo
+- Menambah data 'PromoData' pada json
+- menghapus gambar banner
+- Menambah opsi animasi pada saat 'Splash Screen'
+- Meningkatkan komponen banner, header, homeList dan reviewList
+- Meningkatkan halaman home dan review
+
+Update Tanggal 31 Maret 2020 (Henry)
+- Mengubah halaman 'menuData'
+- Membuat halaman 'OutletDiscount'
+- Membuat halaman 'DiscountList'
+- Menambah data navigation.js
+- Menambah style Decoration komponen common/label
+
+Update Tanggal 7 April 2020 (Buchori)
+- Update 'androidManifest'
+- Update ic_launcher
+- Membuat skeleton loading untuk outlet dan 'outletDetail'
+- Menambah komponen avatar
+- Menambahkan avatar pada 'reviewList'
+- Menambah data json untuk menu info dan ulasan
+
+Update Tanggal 14 April 2020 (Buchori)
+- Menambah komponen skeleton loader untuk 'menuOutlet'
+- Menambah loading activity dari 'skeletonMenuOutlet' pada 'menuOutlet' dan 'diskonOutlet'
+- menambah tabbing pada menu 'promoDiscount'
+- Membuat halaman 'intro', 'loginOutlet' dan 'outletRegister'
+- Mengubah halaman 'signUp' menjadi 'register'
+- Menambah data json 'introData'
+- Menambah node package manager 'react-native-app-intro-slider'
+
+Update Tanggal 17 April 2020 (Henry)
+- Menambah komponen skeleton untuk 'reviewList'
+- Menambah loading activity dari 'skeleton review'
+- Menambah tabbing pada menu 'review'
+
+Update Tanggal 27 April 2020 (Buchori)
+- Memperbaiki validasi pada 'login', 'loginOutlet, 'register' dan 'registerOutlet'
+- Mengubah image pada saat Splash Screen
+- Menambah keterangan "PETA KULINER SOLO" pada Splash Screen
+- Merubah nama dan icon Aplikasi
+- Menambah script pada gradle.properties agar dapat tetap bisa release APK ketika "JAVA OUT OF MEMORY"
+- Menambah asset icon untuk form pencarian
+- Merubah komponen 'banner', 'header', 'label', 'textFormInput', 'discountList', 'menuList', 'outletList', 'promoDiscountList' dan 'reviewList' agar sesuai dengan update data dari Service API
+- Menambah 'userData' pada 'redux/auth'
+- Implementasi Service API pada semua role 'user'
+- Menambah halaman detail untuk 'menu' dan 'review'
+- Menambah custom font CORBEL.TTF dan script config
+- Menambah module 'npm install --save @react-native-community/picker'
+  ** NOTE: Jika tidak ada folder 'assets/fonts' pada 'android/app/src/main/' lakukan perintah 'react-native link' terlebih dahulu sebelum menambah module picker, jika sudah ada, langsung instal module 'picker'
+
+Update Tanggal 4 Mei 2020 (Buchori & Henry)
+- Membuat 'mainOutlet' dan update secara keseluruhan (UI dan API)
+- Merubah asset header pada 'userRole'
+- Merubah flow login untuk 'userRole'
+- Update beberapa komponen sesuai dengan revisi pada file REVISI.DOCX
+
+Update Tanggal 13 Mei 2020 (Buchori & Henry)
+- Implementasi API pencarian makanan atau restoran
+- Membuat halaman "UserMenuSearch"
+- Update UI tabbing pada menu Ulasan Makanan dan Info
+- Update asset untuk header register semua role
+- Menambah popup untuk download aplikasi My Pertamina
+- Implementasi share content untuk semua menu pada role user
+- Implementasi banner dari API
+- Update URL API
